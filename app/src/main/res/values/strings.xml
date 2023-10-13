@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StepAppV1.1</string>
+    <string name="counterStart">Counter Started!</string>
+    <string name="step_count_label">Step Count</string>
+    <string name="start_button_label">Start</string>
+    <string name="Step_Counter">0</string>
+
+</resources>
